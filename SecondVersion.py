@@ -65,4 +65,3 @@ while True:
     except ValueError:
         print(chalk.red(f'{nome} FEZ UMA JOGADA INVÁLIDA!'))
         print(chalk.green('Tente novamente: '))
-        
