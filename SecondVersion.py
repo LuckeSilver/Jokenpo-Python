@@ -1,4 +1,3 @@
-from ast import Break
 from random import randint
 from time import sleep
 from simple_chalk import chalk
